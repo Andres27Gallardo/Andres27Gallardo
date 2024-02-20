@@ -1,4 +1,5 @@
-<h1>Hola!! Soy ANDRES GALLARDO GARCIA Vera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+<h1>Hola!! Soy ANDRES GALLARDO GARCIA  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+  
 📚 Estudio en la Universidad Católica - Tarija en Ingeniería Mecatrónica <br>🏆 Participe en varios campeonatos de Ajedrez y Basquetbol <br>🎵 Me gusta escuchar todo tipo de música <br>😃 Soy una persona alegre, honesto,  respetoso, responsable y que busca nuevos desafíos cada día<br> 🏁 Mis mayores metas ser mejor persona cada día tanto como persona como profesional <br>Me gusta experimentar nueva cosas; me gusta crear, innovar e investigar<br>A cada desafio que se me presenta no tomo como un problema sino como un desafío que hay que superar <br>
 
 
