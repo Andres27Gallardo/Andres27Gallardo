@@ -18,6 +18,6 @@ A cada desafio que se me presenta no tomo como un problema sino como un desafío
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCZ7NvneEEPPS9ZlMb-TpBQA)
+[![YouTube](https://img.shields.io/badge/YouTube-@MECANDRES-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCZ7NvneEEPPS9ZlMb-TpBQA)
 
 
