@@ -1,6 +1,6 @@
 Hola, mi nombre es ANDRES GALLARDO 👋
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+(https://github.com/Andres27Gallardo/Andres27Gallardo/blob/958f9612b66137c4d8a57e90e917d313e1fc292a/BANER.jpg)
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]([https://youtube.com/mouredevapps?sub_confirmation=1](https://www.youtube.com/channel/UCZ7NvneEEPPS9ZlMb-TpBQA))
