@@ -20,6 +20,6 @@ A cada desafio que se me presenta no tomo como un problema sino como un desafío
 
 [![YouTube](https://img.shields.io/badge/YouTube-@MECANDRES-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCZ7NvneEEPPS9ZlMb-TpBQA)
 
-#ALGUNOS DE MIS CODIGOS DESARROLLADOS EN LA UNIVERSIDAD CATOLICA BOLIVIANA"SAN PABLO"-TARIJA 
+##ALGUNOS DE MIS CODIGOS DESARROLLADOS EN LA UNIVERSIDAD CATOLICA BOLIVIANA"SAN PABLO"-TARIJA :
 
-![https://github.com/mouredev](/CODIGOSUCB.png)
+![https://github.com/Andres27Gallardo/MIS-CODIGOS-](/CODIGOS%20UCB.png)
