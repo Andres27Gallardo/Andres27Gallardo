@@ -23,4 +23,4 @@ A cada desafio que se me presenta no tomo como un problema sino como un desafío
 ## ALGUNOS DE MIS CODIGOS DESARROLLADOS EN LA UNIVERSIDAD CATOLICA BOLIVIANA"SAN PABLO"-TARIJA :
 
 
-![ https://github.com/Andres27Gallardo/MIS-CODIGOS- ](/CODIGOS%20UCB.png)
+![https://github.com/Andres27Gallardo/MIS-CODIGOS-](/CODIGOS%20UCB.png)
